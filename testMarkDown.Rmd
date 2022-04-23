@@ -1,0 +1,7 @@
+Title: Simple Document
+
+This text is in ***Bold***
+
+This is ~~strikethrough~~
+
+[google](http://www.google.com)
